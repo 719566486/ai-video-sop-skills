@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="2790" viewBox="0 0 1800 2790">
+<rect width="100%" height="100%" fill="#0d1523"/>
+<style>text{font-family:"Microsoft YaHei","Noto Sans CJK SC",sans-serif}</style>
+<text x="70" y="87" font-size="47" fill="#ffffff">AI VIDEO  /  从创意到完整影片</text>
+<text x="72" y="139" font-size="27" fill="#9db2ce">完整制作与30秒内快速样片 · 一套可续跑、可审查、可交付的流程</text>
+<rect x="70" y="175" width="1660" height="153" rx="20" fill="#172437" stroke="#32455f" stroke-width="2"/>
+<rect x="88" y="198" width="6" height="107" rx="3" fill="#58d6ca"/>
+<text x="114" y="225" font-size="30" fill="#58d6ca">01  输入与一次预检</text>
+<text x="114" y="270" font-size="25" fill="#dbe7f5">故事脚本 / 一两句描述 ＋ 目标时长 ＋ 可选参考图</text>
+<text x="114" y="308" font-size="25" fill="#dbe7f5">核对工具、账户、预算、声音、路径与既有授权；只询问真正缺失的必要条件</text>
+<path d="M480 330 L480 352" stroke="#7c91ad" stroke-width="4" fill="none"/>
+<polygon points="471,339 489,339 480,352" fill="#7c91ad"/>
+<path d="M1320 330 L1320 352" stroke="#7c91ad" stroke-width="4" fill="none"/>
+<polygon points="1311,339 1329,339 1320,352" fill="#7c91ad"/>
+<rect x="70" y="355" width="805" height="218" rx="20" fill="#172437" stroke="#32455f" stroke-width="2"/>
+<rect x="88" y="378" width="6" height="172" rx="3" fill="#69b7ff"/>
+<text x="114" y="405" font-size="30" fill="#69b7ff">完整版  A · 制作圣经</text>
+<text x="114" y="450" font-size="25" fill="#dbe7f5">叙事目标、剧情起承转合、影片风格</text>
+<text x="114" y="488" font-size="25" fill="#dbe7f5">色彩 / 光线 / 配乐 / 对白 / 语气与停顿</text>
+<text x="114" y="526" font-size="25" fill="#dbe7f5">实体ID：人物、场景、物品及不变特征</text>
+<rect x="925" y="355" width="805" height="218" rx="20" fill="#172437" stroke="#32455f" stroke-width="2"/>
+<rect x="943" y="378" width="6" height="172" rx="3" fill="#ffc77c"/>
+<text x="969" y="405" font-size="30" fill="#ffc77c">轻量版  A · 快速创意</text>
+<text x="969" y="450" font-size="25" fill="#dbe7f5">默认15秒，最多30秒；默认竖屏</text>
+<text x="969" y="488" font-size="25" fill="#dbe7f5">一个视觉主张，前1–2秒就抓住注意</text>
+<text x="969" y="526" font-size="25" fill="#dbe7f5">少主体、少场景；代理直接做创意决定</text>
+<path d="M480 575 L480 610" stroke="#7c91ad" stroke-width="4" fill="none"/>
+<polygon points="471,597 489,597 480,610" fill="#7c91ad"/>
+<path d="M1320 575 L1320 610" stroke="#7c91ad" stroke-width="4" fill="none"/>
+<polygon points="1311,597 1329,597 1320,610" fill="#7c91ad"/>
+<rect x="70" y="615" width="805" height="218" rx="20" fill="#172437" stroke="#32455f" stroke-width="2"/>
+<rect x="88" y="638" width="6" height="172" rx="3" fill="#69b7ff"/>
+<text x="114" y="665" font-size="30" fill="#69b7ff">完整版  B · 多角度设定</text>
+<text x="114" y="710" font-size="25" fill="#dbe7f5">人物：正面 / 侧面 / 四分之三 / 背面</text>
+<text x="114" y="748" font-size="25" fill="#dbe7f5">场景：空间轴线、正反打、出入口、光源</text>
+<text x="114" y="786" font-size="25" fill="#dbe7f5">物品：结构、纹样、功能、数量与归属</text>
+<rect x="925" y="615" width="805" height="218" rx="20" fill="#172437" stroke="#32455f" stroke-width="2"/>
+<rect x="943" y="638" width="6" height="172" rx="3" fill="#ffc77c"/>
+<text x="969" y="665" font-size="30" fill="#ffc77c">轻量版  B · 最少必要资产</text>
+<text x="969" y="710" font-size="25" fill="#dbe7f5">一个视觉锚点，必要的人物或产品参考</text>
+<text x="969" y="748" font-size="25" fill="#dbe7f5">通常3–4个生成源镜头；最多4个</text>
+<text x="969" y="786" font-size="25" fill="#dbe7f5">不做完整图册，不逐镜等待用户确认</text>
+<path d="M480 835 L480 870" stroke="#7c91ad" stroke-width="4" fill="none"/>
+<polygon points="471,857 489,857 480,870" fill="#7c91ad"/>
+<path d="M1320 835 L1320 870" stroke="#7c91ad" stroke-width="4" fill="none"/>
+<polygon points="1311,857 1329,857 1320,870" fill="#7c91ad"/>
+<rect x="70" y="875" width="805" height="218" rx="20" fill="#172437" stroke="#32455f" stroke-width="2"/>
+<rect x="88" y="898" width="6" height="172" rx="3" fill="#69b7ff"/>
+<text x="114" y="925" font-size="30" fill="#69b7ff">完整版  C · 逐镜执行脚本</text>
+<text x="114" y="970" font-size="25" fill="#dbe7f5">景别 / 画面提示词 / 运镜 / 动作起止</text>
+<text x="114" y="1008" font-size="25" fill="#dbe7f5">对白 / 情绪 / 声音 / 衔接 / 验收条件</text>
+<text x="114" y="1046" font-size="25" fill="#dbe7f5">整数帧分配；总时长包含片头和片尾</text>
+<rect x="925" y="875" width="805" height="218" rx="20" fill="#172437" stroke="#32455f" stroke-width="2"/>
+<rect x="943" y="898" width="6" height="172" rx="3" fill="#ffc77c"/>
+<text x="969" y="925" font-size="30" fill="#ffc77c">轻量版  C · 短视频节奏</text>
+<text x="969" y="970" font-size="25" fill="#dbe7f5">强开头 → 2–3个变化 → 清楚的视觉回收</text>
+<text x="969" y="1008" font-size="25" fill="#dbe7f5">音乐与少量文字优先，按需保留对白</text>
+<text x="969" y="1046" font-size="25" fill="#dbe7f5">用剪辑选段提速，不靠重复生成堆镜头</text>
+<path d="M480 1095 L480 1132" stroke="#7c91ad" stroke-width="4" fill="none"/>
+<polygon points="471,1119 489,1119 480,1132" fill="#7c91ad"/>
+<path d="M1320 1095 L1320 1132" stroke="#7c91ad" stroke-width="4" fill="none"/>
+<polygon points="1311,1119 1329,1119 1320,1132" fill="#7c91ad"/>
+<rect x="70" y="1135" width="1660" height="175" rx="20" fill="#172437" stroke="#32455f" stroke-width="2"/>
+<rect x="88" y="1158" width="6" height="129" rx="3" fill="#58d6ca"/>
+<text x="114" y="1185" font-size="30" fill="#58d6ca">02  Codex内置生图 → 干净的单镜首帧</text>
+<text x="114" y="1230" font-size="25" fill="#dbe7f5">先审设定，再生成分镜；锁定身份、服饰、道具和空间关系，按需制作尾帧</text>
+<text x="114" y="1268" font-size="25" fill="#dbe7f5">首帧有错先修图；拼图只用于审阅，不直接当视频首帧；保存到项目并记录出处</text>
+<path d="M900 1312 L900 1347" stroke="#7c91ad" stroke-width="4" fill="none"/>
+<polygon points="891,1334 909,1334 900,1347" fill="#7c91ad"/>
+<rect x="70" y="1350" width="1660" height="175" rx="20" fill="#172437" stroke="#32455f" stroke-width="2"/>
+<rect x="88" y="1373" width="6" height="129" rx="3" fill="#58d6ca"/>
+<text x="114" y="1400" font-size="30" fill="#58d6ca">03  Kling动态生成 → 持久化任务与费用</text>
+<text x="114" y="1445" font-size="25" fill="#dbe7f5">读取实时模型能力 → 兼容上传 → 保存请求 / 预留预算 → 一次提交 → 立即保存ID与回执</text>
+<text x="114" y="1483" font-size="25" fill="#dbe7f5">查询原任务并下载；失败和断网不等于未收费；中断续跑不重发已成功镜头</text>
+<path d="M900 1527 L900 1562" stroke="#7c91ad" stroke-width="4" fill="none"/>
+<polygon points="891,1549 909,1549 900,1562" fill="#7c91ad"/>
+<rect x="70" y="1565" width="1660" height="137" rx="20" fill="#172437" stroke="#32455f" stroke-width="2"/>
+<rect x="88" y="1588" width="6" height="91" rx="3" fill="#58d6ca"/>
+<text x="114" y="1615" font-size="30" fill="#58d6ca">04  实际动态验收：动作真的发生了吗？</text>
+<text x="114" y="1660" font-size="25" fill="#dbe7f5">检查身份、手部接触、物体去向、纹样几何、运镜与邻镜连续性；风险区间密集审看</text>
+<path d="M330 1704 L330 1739" stroke="#7c91ad" stroke-width="4" fill="none"/>
+<polygon points="321,1726 339,1726 330,1739" fill="#7c91ad"/>
+<path d="M900 1704 L900 1739" stroke="#7c91ad" stroke-width="4" fill="none"/>
+<polygon points="891,1726 909,1726 900,1739" fill="#7c91ad"/>
+<path d="M1470 1704 L1470 1739" stroke="#7c91ad" stroke-width="4" fill="none"/>
+<polygon points="1461,1726 1479,1726 1470,1739" fill="#7c91ad"/>
+<rect x="70" y="1742" width="520" height="180" rx="20" fill="#172437" stroke="#32455f" stroke-width="2"/>
+<rect x="88" y="1765" width="6" height="134" rx="3" fill="#58d6ca"/>
+<text x="114" y="1792" font-size="30" fill="#58d6ca">通过</text>
+<text x="114" y="1837" font-size="25" fill="#dbe7f5">记录源片哈希、采用入出点</text>
+<text x="114" y="1875" font-size="25" fill="#dbe7f5">保存实际审看范围与限制</text>
+<rect x="640" y="1742" width="520" height="180" rx="20" fill="#172437" stroke="#32455f" stroke-width="2"/>
+<rect x="658" y="1765" width="6" height="134" rx="3" fill="#ffc77c"/>
+<text x="684" y="1792" font-size="30" fill="#ffc77c">局部可用</text>
+<text x="684" y="1837" font-size="25" fill="#dbe7f5">取可靠区间，保持完整动作</text>
+<text x="684" y="1875" font-size="25" fill="#dbe7f5">合理变速，标明后期修复</text>
+<rect x="1210" y="1742" width="520" height="180" rx="20" fill="#172437" stroke="#32455f" stroke-width="2"/>
+<rect x="1228" y="1765" width="6" height="134" rx="3" fill="#ff8c99"/>
+<text x="1254" y="1792" font-size="30" fill="#ff8c99">未达标 / 不确定</text>
+<text x="1254" y="1837" font-size="25" fill="#dbe7f5">定位问题；按规则请求重试</text>
+<text x="1254" y="1875" font-size="25" fill="#dbe7f5">不自动扣费；保留可续跑状态</text>
+<text x="1225" y="1963" font-size="23" fill="#ff8c99">获准后返回修图或针对性生成</text>
+<path d="M330 1925 L330 1998" stroke="#7c91ad" stroke-width="4" fill="none"/>
+<polygon points="321,1985 339,1985 330,1998" fill="#7c91ad"/>
+<path d="M900 1925 L900 1998" stroke="#7c91ad" stroke-width="4" fill="none"/>
+<polygon points="891,1985 909,1985 900,1998" fill="#7c91ad"/>
+<rect x="70" y="2002" width="1660" height="175" rx="20" fill="#172437" stroke="#32455f" stroke-width="2"/>
+<rect x="88" y="2025" width="6" height="129" rx="3" fill="#58d6ca"/>
+<text x="114" y="2052" font-size="30" fill="#58d6ca">05  声音与精确剪辑</text>
+<text x="114" y="2097" font-size="25" fill="#dbe7f5">旁白 / 配乐 / 环境声分轨；实际发音与画面逐句对应；音乐避让、响度处理</text>
+<text x="114" y="2135" font-size="25" fill="#dbe7f5">精确源入出点；字幕和品牌UI后期添加；真实第0帧封面；保留原素材与旧版本</text>
+<path d="M900 2179 L900 2214" stroke="#7c91ad" stroke-width="4" fill="none"/>
+<polygon points="891,2201 909,2201 900,2214" fill="#7c91ad"/>
+<rect x="70" y="2217" width="1660" height="175" rx="20" fill="#172437" stroke="#32455f" stroke-width="2"/>
+<rect x="88" y="2240" width="6" height="129" rx="3" fill="#58d6ca"/>
+<text x="114" y="2267" font-size="30" fill="#58d6ca">06  检查实际导出的MP4</text>
+<text x="114" y="2312" font-size="25" fill="#dbe7f5">技术：全片解码、尺寸帧率、目标帧数、音轨、字幕、响度；视觉：首尾帧与所有切点</text>
+<text x="114" y="2350" font-size="25" fill="#dbe7f5">声音：可播放时真实听审；失败局部修复后再查。技术通过不能替代视觉与听审。</text>
+<path d="M900 2394 L900 2429" stroke="#7c91ad" stroke-width="4" fill="none"/>
+<polygon points="891,2416 909,2416 900,2429" fill="#7c91ad"/>
+<rect x="70" y="2432" width="1660" height="175" rx="20" fill="#172437" stroke="#32455f" stroke-width="2"/>
+<rect x="88" y="2455" width="6" height="129" rx="3" fill="#58d6ca"/>
+<text x="114" y="2482" font-size="30" fill="#58d6ca">07  交付可播放的完整影片</text>
+<text x="114" y="2527" font-size="25" fill="#dbe7f5">MP4 ＋ 封面；按需附SRT、制作脚本、提示词、费用与QA记录</text>
+<text x="114" y="2565" font-size="25" fill="#dbe7f5">清楚说明未完成项、原生/升采样分辨率、后期修复；用户终验与内部验收分开</text>
+<text x="72" y="2689" font-size="29" fill="#b6c9e0">快，来自范围清楚和主动决策；稳，来自可恢复任务和实际成片验收。</text>
+<text x="72" y="2742" font-size="22" fill="#7e96b3">开源技能与辅助工具  ·  MIT  ·  不含原项目媒体与账户信息</text>
+</svg>

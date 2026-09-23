@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Video Director · 完整影片"
+  short_description: "从一句创意或剧本到完整影片，自动统筹设定、分镜、可灵动态、声音与成片验收"
+  default_prompt: "使用 $ai-video-director，把我的故事或描述制作成完整影片；按目标时长完成设定图、分镜、Kling动态与声音剪辑。"

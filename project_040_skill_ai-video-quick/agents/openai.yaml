@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Video Quick · 30秒内样片"
+  short_description: "一句话加可选参考图，少交互生成十五至三十秒有视觉吸引力的完整短视频样例"
+  default_prompt: "使用 $ai-video-quick，根据我的一句话创意和可选参考图，直接生成一段15秒、画面好看的短视频样例。"
